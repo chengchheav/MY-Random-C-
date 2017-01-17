@@ -12,3 +12,6 @@ D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.exe
 D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.pdb
 D:\MyProject\MyRandom\MyRandom\bin\Debug\PagedList.dll
 D:\MyProject\MyRandom\MyRandom\bin\Debug\PagedList.xml
+C:\Users\Chengchheav\Desktop\New folder\MY-Random-C-\MyRandom\bin\Debug\MyRandom.exe.config
+C:\Users\Chengchheav\Desktop\New folder\MY-Random-C-\MyRandom\obj\Debug\MyRandom.exe
+C:\Users\Chengchheav\Desktop\New folder\MY-Random-C-\MyRandom\obj\Debug\MyRandom.pdb

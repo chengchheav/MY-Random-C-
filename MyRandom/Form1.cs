@@ -17,6 +17,7 @@ namespace MyRandom
 {
     public partial class Form1 : Form
     {
+        //Author by Song CHengchheav
         private string Excel03ConString = "Provider=Microsoft.Jet.OLEDB.4.0;Data Source={0};Extended Properties='Excel 8.0;HDR={1}'";
         private string Excel07ConString = "Provider=Microsoft.ACE.OLEDB.12.0;Data Source={0};Extended Properties='Excel 8.0;HDR={1}'";
         public Form1()
