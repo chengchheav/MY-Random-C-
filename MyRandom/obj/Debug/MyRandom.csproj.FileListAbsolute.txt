@@ -1,0 +1,14 @@
+D:\MyProject\MyRandom\MyRandom\bin\Debug\MyRandom.exe.config
+D:\MyProject\MyRandom\MyRandom\bin\Debug\MyRandom.exe
+D:\MyProject\MyRandom\MyRandom\bin\Debug\MyRandom.pdb
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.csprojResolveAssemblyReference.cache
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.Form1.resources
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.FormListAndShowData.resources
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.NewDesign.resources
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.Properties.Resources.resources
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.test.resources
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.csproj.GenerateResource.Cache
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.exe
+D:\MyProject\MyRandom\MyRandom\obj\Debug\MyRandom.pdb
+D:\MyProject\MyRandom\MyRandom\bin\Debug\PagedList.dll
+D:\MyProject\MyRandom\MyRandom\bin\Debug\PagedList.xml
